@@ -1,4 +1,4 @@
-![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Dayasagar301/Dayasagar301/assets/132691000/8e1c4387-98fa-42bb-a256-0ebafa29991b)
+Ḥ![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Dayasagar301/Dayasagar301/assets/132691000/8e1c4387-98fa-42bb-a256-0ebafa29991b)
 
 
 <link href='https://fonts.googleapis.com/css?family=Unbounded' rel='stylesheet'>
@@ -96,7 +96,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 <h2 align="left">⚡Activity Graph:</h2>
 
-<a href="https://github.com/Dayasagar301"><img alt="Shubham Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dayasagar301&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/></a>
+<a href="https://github.com/Dayasagar301"><img alt="Dayasagar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dayasagar301&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/></a>
 <br> 
 
 
