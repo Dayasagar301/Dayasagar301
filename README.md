@@ -1,3 +1,4 @@
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Dayasagar301/Dayasagar301/assets/132691000/8e1c4387-98fa-42bb-a256-0ebafa29991b)
 
 
 <link href='https://fonts.googleapis.com/css?family=Unbounded' rel='stylesheet'>
