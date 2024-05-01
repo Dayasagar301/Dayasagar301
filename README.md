@@ -29,7 +29,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
  
 - 📄 Download my <a href= "https://drive.google.com/file/d/1EEzFMkMCCvx6GmcfWfA3Qi41PzdSNmkh/view?usp=drive_link" target="_target">Resume</a>
 
-- 👨‍💻 Portfolio <a href="https://drive.google.com/file/d/1Ox_X0asQEwNQ9TX1wuSxrPZIVCuVlKpl/view?usp=drive_link" target="_blank"> Portfolio</a>
+- 👨‍💻 Portfolio <a href="https://drive.google.com/file/d/1EEzFMkMCCvx6GmcfWfA3Qi41PzdSNmkh/view?usp=drive_link" target="_blank"> Portfolio</a>
 
 <h2>🥇 Technical Skills:  </h2>  
 
