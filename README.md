@@ -77,7 +77,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 
 ## 📊 Statistics  
 <!-- github status  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dayasagar301" alt="Shubham" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dayasagar301" alt="Dayasagar" /></a> </p>
 
 <div align="center" style="display: flex; gap:50px">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dayasagar301&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
