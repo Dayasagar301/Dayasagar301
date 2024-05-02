@@ -1,94 +1,99 @@
-# Student Portfolio Analyser
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Dayasagar301/Dayasagar301/assets/132691000/8e1c4387-98fa-42bb-a256-0ebafa29991b)
+<link href='https://fonts.googleapis.com/css?family=Unbounded' rel='stylesheet'>
+<div id="header" align="center">
+  
+  <a href="https://www.linkedin.com/in/dayasagar-dalai-753026278/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=Dayasagar301&style=flat-square&color=yellow" alt="profile views" />
+</div>
+<hr>
+With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly applications using the MERN stack. My passion for innovation drives me to learn and explore new technologies continually. Let's connect on LinkedIn to delve deeper into my professional journey and skills. Thanks for visiting—I look forward to connecting with you!
+<br/>
+<br/>
 
-## Maximum Marks - 34
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif">
+<br/>
+<br/>
 
-```
- ✅ Submitted link is a github.io link - 1 mark
- ✅ Basic components (navbar, about, skills, projects, contact) present with respective IDs - 1 mark
- ✅ Navbar contains required elements with respective IDs - 1 mark
- ✅ Elements of the navbar are linked to the respective sections  - 5 marks
- ✅ Name is present - 1 mark
- ✅ Formal introduction is present - 1 mark
- ✅ About section is titled - 1 marks
- ✅ Professional photo is present - 1 marks
- ✅ Minimum of 4 samples of projects are present - 2 marks
- ✅ All project cards have an image, title, deployed link, repository link - 4 marks
- ✅ Each skills card has the corresponding image and name - 1 mark
- ✅ Links to GitHub and LinkedIn profiles are present - 2 marks
- ✅ Phone number is present - 1 mark
- ✅ Email address is present - 1 mark
- ✅ Resume buttons are present in the Resume section and the Home/About section - 2 marks
- ✅ Clicking on the resume button in the Resume section opens the link in a new tab and downloads the resume in PDF format - 2 marks
- ✅ Clicking on the resume button in the Home/About section section opens the link in a new tab and downloads the resume in PDF format - 2 marks
- ✅ GitHub calendar heatmap is present - 1 mark
- ✅ GitHub streak stats are present - 1 mark
- ✅ GitHub top languages card is present - 1 mark
- ✅ GitHub stats card is present - 1 mark
- ✅ Checked tech words in user about section - 1 mark
+Connect with me on <a href="https://www.linkedin.com/in/dayasagar-dalai-753026278/"> LinkedIn<a/> to learn more about my professional background and skills. Thanks for visiting! 
 
-```
+Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
-#### You haven't been taught cypress to run the test cases locally, you can see the passed/ failed test cases and test errors on CP itself.
+   <p align="center" color:"red"> 
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hey! I'm Dayasagar Dalai; I am a Developer;&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+      </p>
+      
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
-#### CP will attempt to take screenshots of each component in your portfolio. You can view these screenshots in the "Screenshots" dropdown in the logs page. The marks allotted to you are independent of these.
+<img align="right" width="380px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px> 
 
-## Some Rules to follow:-
+- 🔭 I’m currently working on Frontend & Backend
 
-- Before writing a single line of code please read the problem statement very carefully.
-- If you don't follow these rules you might not get any marks even if you do everything correctly.
-- Have a look at the TestErrors on the logs page and Google them if any of your test cases have failed to figure out what might have gone wrong.
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/dayasagar-dalai-753026278/" target="_blank">LinkedIn</a> & GitHub
+- 📫 Reach me on dayasagar301@gmail.com
+- 💬 Open for your suggestions
+ 
+- 📄 Download my <a href= "https://drive.google.com/file/d/1EEzFMkMCCvx6GmcfWfA3Qi41PzdSNmkh/view?usp=drive_link" target="_target">Resume</a>
+- 👨‍💻 Portfolio <a href="https://drive.google.com/file/d/1EEzFMkMCCvx6GmcfWfA3Qi41PzdSNmkh/view?usp=drive_link" target="_blank"> Portfolio</a>
+<h2>🥇 Technical Skills:  </h2>  
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
+<br/>
+<br/>
+  <img src = "https://img.shields.io/badge/chakra ui-%233CC7BD.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src = "https://img.shields.io/badge/bootstrap-%238512F3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="bootstrap"/>
+  <img src = "https://img.shields.io/badge/tailwindcss-%2338BDF8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="center" alt="tailwindcss"/>
+  <img src = "https://img.shields.io/badge/sass-%23C66394.svg?style=for-the-badge&logo=sass&logoColor=white" align="center" alt="sass"/>
+ 
+  
+</div>
+ <br/>
+<div align="center"><h3 align="center">Backend</h3> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  <img src="https://img.shields.io/badge/MySQL-%23015B85?style=for-the-badge&logo=mysql&logoColor=white" align="center" alt="MySQL"/>
+</div>
+  
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<br/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+    
+   <br/>
+<br/>
+  </div>
 
-## Problem Statement and Instructions:-
+## 📊 Statistics  
+<!-- github status  -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dayasagar301" alt="Dayasagar" /></a> </p>
 
-- Create a portfolio with the following components using the following attributes:
-  - Navbar : id="nav-menu"
-  - Home section : id="home"
-  - About section : id="about" class="about section"
-  - Skills section : id="skills"
-  - Projects section : id="projects"
-  - Contact section : id="contact"
-- The elements within the navbar linked to the above 4 sections should have the following.
-  - Element linked to Home section : class="nav-link home"
-  - Element linked to About section : class="nav-link about"
-  - Element linked to Skills section : class="nav-link skills"
-  - Element linked to Projects section : class="nav-link projects"
-  - Element linked to Contact section : class="nav-link contact"
-  - Element linked to Resume : class="nav-link resume"
-- The following must be present within elements with the respective IDs:
-  - Name : id="user-detail-name"
-  - Formal introduction : id="user-detail-intro"
-- Contact elements must have the following IDs:
-  - GitHub profile link : id="contact-github"
-  - LinkedIn profile link : id="contact-linkedin"
-  - Phone number : id="contact-phone"
-  - Email address : id="contact-email"
-- The image linking your professional photo must have class="home-img"
-- Each project card in the Projects section should have class="project-card" and the following:
-  - Image of the project
-  - Title : class="project-title"
-  - Description : class="project-description"
-  - Tech stack used : class="project-tech-stack"
-  - Link to GitHub repository : class="project-github-link"
-  - Deployed link or video link : class="project-deployed-link"
-- Each skills card in the Skills section should have class="skills-card" and the following:
-  - Image : class="skills-card-img"
-  - Name : class="skills-card-name"
-- There must be two buttons for resume. Clicking on them should open the resume in a new tab and download it as a PDF. They must have the following IDs:
-  - For the button in the Resume section : id="resume-button-1"
-  - For the button in the Home/About section : id="resume-button-2"
-- If you're using anchor elements for the resume buttons, they must have the following IDs:
-  - For the button in the Resume section : id="resume-link-1"
-  - For the button in the Home/About section : id="resume-link-2"
-- For the GitHub calendar: class="react-activity-calendar" (the class is automatically included if you're using the react-github-calendar npm package)
-- The GitHub statistics images must have the following IDs:
-  - GitHub streak stats : id="github-streak-stats" [Link to refer : https://github-readme-streak-stats.herokuapp.com/demo/]
-  - GitHub top languages : id="github-top-langs" [Link to refer : https://github.com/anuraghazra/github-readme-stats]
-  - GitHub stats card : id="github-stats-card" [Link to refer : https://github.com/anuraghazra/github-readme-stats]
-- Do not repeat any of the above class names and ID names for any other element.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mridulkatara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center" style="display: flex; gap:50px">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dayasagar301&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
 
-#### General guidelines
-
-- The system on cp.masaischool.com may take between 1-20 minutes for responding,
-- so we request you to read the problem carefully and debug it before itself
-- we also request you not just submit it last minute
-- try to keep one submission at a time
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com/?user=Dayasagar301&_border=true&theme=dark&hide_border=true&theme=react" style="width: 50%" />
+</div>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dayasagar301&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 50%" />
+</div>
+<h2 align="left">⚡Activity Graph:</h2>
+<a href="https://github.com/Dayasagar301"><img alt="Dayasagar Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Dayasagar301&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true"/></a>
+<br> 
