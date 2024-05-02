@@ -1,4 +1,4 @@
-Ḥ![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Dayasagar301/Dayasagar301/assets/132691000/8e1c4387-98fa-42bb-a256-0ebafa29991b)
+![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Dayasagar301/Dayasagar301/assets/132691000/8e1c4387-98fa-42bb-a256-0ebafa29991b)
 
 
 <link href='https://fonts.googleapis.com/css?family=Unbounded' rel='stylesheet'>
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dayasagar301&style=flat-square&color=yellow" alt="profile views" />
 </div>
 <hr>
-A dedicated full-stack web developer with over 1200+ consistent hrs of experience building dynamic and user-friendly applications. Strong background in  MERN stack, and always looking to learn and try new technologies.
+With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly applications using the MERN stack. My passion for innovation drives me to learn and explore new technologies continually. Let's connect on LinkedIn to delve deeper into my professional journey and skills. Thanks for visiting—I look forward to connecting with you!
 
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
