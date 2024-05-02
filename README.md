@@ -11,11 +11,23 @@
 </div>
 <hr>
 With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly applications using the MERN stack. My passion for innovation drives me to learn and explore new technologies continually. Let's connect on LinkedIn to delve deeper into my professional journey and skills. Thanks for visiting—I look forward to connecting with you!
+<br/>
+<br/>
+
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif">
+<br/>
+<br/>
+
+Connect with me on <a href="https://www.linkedin.com/in/dayasagar-dalai-753026278/"> LinkedIn<a/> to learn more about my professional background and skills. Thanks for visiting! 
 
 
-Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
+   <p align="center" color:"red"> 
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hey! I'm Dayasagar Dalai; I am a Developer;&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+      </p>
+      
+<img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
-
+<img align="right" width="380px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px> 
 
 - 🔭 I’m currently working on Frontend & Backend
 
@@ -75,10 +87,8 @@ Connect with me on LinkedIn to learn more about my professional background and s
 <br/>
   </div>
 
-## 📊 Statistics  
-<!-- github status  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dayasagar301" alt="Dayasagar" /></a> </p>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mridulkatara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <div align="center" style="display: flex; gap:50px">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dayasagar301&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 50%" />
 
