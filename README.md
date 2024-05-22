@@ -35,7 +35,7 @@ Connect with me on LinkedIn to learn more about my professional background and s
 - 📫 Reach me on dayasagar301@gmail.com
 - 💬 Open for your suggestions
  
-- 📄 Download my <a href= "https://drive.google.com/file/d/1R20kqgjwJdHY3e-NALLNrvAUlEB07hW4/view?usp=drive_link" target="_target">Resume</a>
+- 📄 Download my <a href= "https://drive.google.com/file/d/1S2FF7aFndb_oXJY2FrSKf4scG1h1AbuE/view?usp=drive_link" target="_target">Resume</a>
 - 👨‍💻 Portfolio <a href="https://dayaportfolio.onrender.com/" target="_blank"> Portfolio</a>
 <h2>🥇 Technical Skills:  </h2>  
  <div align="center"><h3 align="center">Frontend</h3>
